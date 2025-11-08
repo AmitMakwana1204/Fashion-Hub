@@ -1,4 +1,3 @@
-
 # <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/04f161d0-fb38-414b-b678-8c2cb87b8c40" /> Fashion Hub
 
 **Fashion Hub** is a modern e-commerce web app built with **React + Vite**.
