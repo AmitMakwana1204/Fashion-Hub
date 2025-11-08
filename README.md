@@ -24,7 +24,6 @@ This project is optimized for **fast development**, **clean UI**, and **responsi
 ---
 
 ## 📦 Installation
-Project run karne ke liye steps:
 
 ```bash
 # Clone the repo
